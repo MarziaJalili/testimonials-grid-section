@@ -51,6 +51,7 @@ body {
   gap: 1rem;
   background-color: black;
   align-items: start;
+  box-shadow: 0px 10px 10px 0 rgba(0, 0, 0, 0.15);
 }
 
 .graduate-info {
