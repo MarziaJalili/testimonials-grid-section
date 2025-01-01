@@ -92,7 +92,7 @@ body {
 
 .testimonial:nth-child(1) {
   background-color: var(--Moderate-violet);
-  background-image: url("./images/bg-pattern-quotation.svg");
+  background-image: url("../images/bg-pattern-quotation.svg");
   background-position: top right 15%;
   background-repeat: no-repeat;
   grid-area: one;
